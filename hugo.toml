@@ -1,0 +1,6 @@
+baseURL = 'https://mod-telegram-001.github.io'
+languageCode = 'en-us'
+title = 'Mod Telegram'
+theme = 'hugo-geekdoc'
+[params]
+    description = "Mod Telegram 功能优化 防撤回 会员 破解 截图)"
