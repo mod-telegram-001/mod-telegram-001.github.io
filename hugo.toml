@@ -1,7 +1,7 @@
 baseURL = 'https://mod-telegram-001.github.io'
 languageCode = 'en-us'
-title = 'Mod Telegram'
+title = 'Mod Telegram 电报 优化 防撤回 会员 破解 截图'
 theme = 'hugo-geekdoc'
 googleAnalytics = 'G-Y8WHQPQTP4'
 [params]
-    description = "Mod Telegram 电报 优化 防撤回 撤回 会员 破解 截图"
+    description = "Mod Telegram 电报 优化 防撤回 会员 破解 截图"
