@@ -1,7 +1,7 @@
 baseURL = 'https://mod-telegram-001.github.io'
 languageCode = 'en-us'
-title = 'Mod Telegram anti revoke 电报 优化 防撤回 会员 破解 截图'
+title = 'Mod Telegram (测试)'
 theme = 'hugo-geekdoc'
 googleAnalytics = 'G-Y8WHQPQTP4'
 [params]
-    description = "Mod Telegram anti revoke 电报 优化 防撤回 会员 破解 截图"
+    description = "Mod Telegram anti revoke android 安卓 电报 优化 防撤回 会员 破解 截图"
