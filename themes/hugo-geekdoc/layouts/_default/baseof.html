@@ -5,6 +5,7 @@
   {{ if default false .Site.Params.geekdocDarkModeCode }}code-theme="dark"{{ end }}
 >
   <head>
+    {{ template "_internal/google_analytics.html" . }}
     {{ partial "head/meta" . }}
     <title>
       {{- if eq .Kind "home" -}}
@@ -20,7 +21,6 @@
     {{ partial "head/others" . }}
     {{ partial "head/custom" . }}
   </head>
-  {{ template "_internal/google_analytics.html" . }}
   <body itemscope itemtype="https://schema.org/WebPage">
     {{ partial "svg-icon-symbols" . }}
 
