@@ -20,7 +20,7 @@ geekdocBreadcrumb: false
 - 请同时安装官方版，以防因bug、更新、接码等问题导致的无法使用
 - 测试中，测试结束后，删除 app id，结束测试版本的使用
 
-{{<button size="large" href="https://t.me/+p9taGqEh5l5kNzFh">}}点此进入 Mod Telegram 测试群{{</button>}}
+{{<button size="large" href="https://t.me/ModTelegram001">}}点此进入 Mod Telegram 测试频道{{</button>}}
 
 ## 功能
 ### 功能选项
